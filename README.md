@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SVelpari
+- 👋 Hi, I’m Saravanaa Velpari
 - 👀 I’m interested in Building Stuff
-- 📫 How to reach me ...
+- 📫 How to reach me ...saravanaa.velpari@outlook.com
 
 <!---
 SVelpari/SVelpari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
